@@ -1,4 +1,4 @@
-Studying at DIT, UoA
+- Studying at DIT, UoA
 
 
 <h4 align="left">Languages:</h4>
