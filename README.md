@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AggelosKoralis&label=Profile%20views&color=0e75b6&style=flat" alt="AggelosKoralis" /> </p>
-
 - Studying at DIT, UoA
 
 <h4 align="left">Languages:</h4>
